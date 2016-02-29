@@ -1,8 +1,7 @@
 # Tổng hợp các nội dung nổi bật
 
-## Cần chú ý cách build và up code mới 
+## Cần chú ý cách [build và up code mới](https://github.com/vinaas/simpleweb/wiki/H%C6%B0%E1%BB%9Bng-d%E1%BA%ABn-Build-v%C3%A0-Deploy)
 
-https://github.com/vinaas/simpleweb/wiki/H%C6%B0%E1%BB%9Bng-d%E1%BA%ABn-Build-v%C3%A0-Deploy
 
 ## Các việc ưu tiên thực hiện:
 
